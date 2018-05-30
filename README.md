@@ -1,3 +1,5 @@
+Kotlin web project from Acando Java Usergroup meeting demo.
+
 This project was bootstrapped with [Create React Kotlin App](https://github.com/JetBrains/create-react-kotlin-app).
 
 Below you will find some useful information on how to work with this application.<br>
